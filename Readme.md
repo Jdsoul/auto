@@ -19,7 +19,7 @@ __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In I
 
 ## Usage
 
-**__❤️How To Use Me!?❤️ @mwcinema __**
+**__❤️How To Use Me!?❤️ @mwcinema  __**
 
 * -> Add me to any group and make me admin<br>
 * -> Add me to your channel as admin with full previlages
