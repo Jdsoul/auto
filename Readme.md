@@ -19,7 +19,7 @@ __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In I
 
 ## Usage
 
-**__How To Use Me!?__**
+**__❤️How To Use Me!?❤️ @mwcinema __**
 
 * -> Add me to any group and make me admin<br>
 * -> Add me to your channel as admin with full previlages
@@ -68,7 +68,7 @@ OR
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
+<i>**[Watch Deploying Tutorial...](https://youtu.be/gHb4xCW-DhU)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
