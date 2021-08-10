@@ -5,7 +5,7 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>Am Just A Advance Auto Filter Bot made by @starkindisttri....😉
 
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
@@ -54,5 +54,5 @@ For More Details Click Help Button Below..
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://telegra.ph/file/bf1a8b7cb18a95892a50c.jpg">Click Me</a></i>
 """
